@@ -1,0 +1,66 @@
+body
+{
+  color:#584D4D;
+  margin: 0;
+  padding: 0;
+  font-family: 'ArialMT','Arial',sans-serif;
+  font-size: 14px;
+}
+
+h2
+{
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+h3
+{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+#content
+{
+  margin: 0 auto;
+  width: 700px;
+}
+
+#header 
+{
+  text-align: center;
+  height: 150px;
+}
+
+#header hr
+{
+  width: 300px;
+}
+
+.bumper 
+{
+  font-size: 1px;
+}
+
+#sidebar
+{
+  float:left;
+  width: 300px;
+}
+
+#links li
+{
+  list-style-type:none;
+  padding: 5px;
+}
+
+#description
+{
+  margin-left: 310px;
+}
+
+.caption
+{
+        font-size: 8pt;
+}
